@@ -2,7 +2,7 @@
 
 ## Question No: 1
 #### Which of the following statements is NOT true about Python functions:
-* [ ] A function can be called only once in a program.
+* [x] A function can be called only once in a program.
 * [ ] A function allows us to break a program into small, independent tasks.
 * [ ] A function can call other functions.
 * [ ] Python provides several helpful functions
@@ -10,14 +10,14 @@
 
 ## Question No: 2
 #### Functions allow us to "divide and conquer" a complex programming task into simpler programming tasks.
-* [ ] True
+* [x] True
 * [ ] false
 
 
 # Question No: 3
 #### Functions are the only way to write modular programs in Python.
 * [ ] True
-* [ ] false
+* [x] false
 
 
 # Question No: 4
@@ -29,7 +29,7 @@ y3 = max(y1, y2)
 ```
 * [ ] y3 is the largest integer among x1, x2, x3, x4.
 * [ ] y3 is either the largest or the second largest integer among x1, x2, x3, x4.
-* [ ] y3 is either the second largest or the third largest integer among x1, x2, x3, x4.
+* [x] y3 is either the second largest or the third largest integer among x1, x2, x3, x4.
 * [ ] y3 is the third largest integer among x1, x2, x3, x4.
 
 
@@ -63,7 +63,7 @@ checkGlobal()
 ```
 * [ ] 10
 * [ ] 5
-* [ ] 15
+* [x] 15
 * [ ] None of the above
 
 
@@ -80,12 +80,12 @@ def checkGlobal():
 * [ ] 60
 * [ ] 55
 * [ ] 10
-* [ ] Error in the code
+* [x] Error in the code
 
 
 ## Question No: 8
 #### Which of the following is true for global keyword
-* [ ] Global keyword allows user to modify variable outside of local scope
+* [x] Global keyword allows user to modify variable outside of local scope
 * [ ] It is required to use global keyword outside a function
 * [ ] Both a and b
 * [ ] None of the above
@@ -102,7 +102,7 @@ def calculate():
     print(x)
 calculate()
 ```
-* [ ] 100
+* [x] 100
 * [ ] 200
 * [ ] 50
 * [ ] Error
@@ -120,7 +120,7 @@ calculate()
 * [ ] 100
 * [ ] 200
 * [ ] 50
-* [ ] Error
+* [x] Error
 
 ## Question No: 11
 #### What will be the output of the following code:
@@ -133,7 +133,7 @@ func_default(7,9)
 ```
 * [ ] 123
 * [ ] 729
-* [ ] 793
+* [x] 793
 * [ ] None of the above
 
 
@@ -141,7 +141,7 @@ func_default(7,9)
 #### Which of the following is true for default keyword
 * [ ] If a argument is not supplied in the function call, default value is used
 * [ ]  Order does not matter for default and non defaults in a function definition
-* [ ]  Both a and b
+* [x]  Both a and b
 * [ ]  None of the above
 
 
@@ -155,7 +155,7 @@ def func_keyword(x=1, y=2, z=3):
 func_keyword(y=8,x=4)
 ```
 * [ ] Error
-* [ ] 9
+* [x] 9
 * [ ] 0
 * [ ] 5
 
@@ -165,7 +165,7 @@ func_keyword(y=8,x=4)
 * [ ] They represent sequence of characters
 * [ ] Either double quotes or single quotes can be used
 * [ ] Backslash can be used to  escape quote
-* [ ] All of the above
+* [x] All of the above
 
 ## Question No: 15
 ### What will be the output of the following code :-
@@ -177,4 +177,4 @@ print(str*5)
 * [ ] hello
 * [ ] hello*5
 * [ ] hello *5
-* [ ] hello hello hello hello hello
+* [x] hello hello hello hello hello
