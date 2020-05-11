@@ -1,4 +1,4 @@
-# Week 9 Quiz
+# Week 10 Quiz
 
 ## Question No: 1
 #### In a binary search algorithm, Which is the best case scenario:-
